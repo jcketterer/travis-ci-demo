@@ -18,4 +18,4 @@ function average(...nums) {
   return total / nums.length
 }
 
-module.exports = { add, subtract, multiply, divide, average }
+module.exports = { add, subtract, multiply, average }
